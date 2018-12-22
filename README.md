@@ -58,8 +58,8 @@
 
 Плюсы локального
   - Можно отлаживать легко подменяя данные контекста.
-
-
+  
+Пример кода для тестов:
 
     using(var contextScope = ScopeManager.CreateScope<SomeContextClass>("ScopeName1"))
     {

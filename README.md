@@ -66,7 +66,7 @@
        contextScope.X = 5000;  // можем в коде теста передать любые данные
        contextScope.Text = "TextText"; 
        
-       Код теста
+       // Код теста
     }
 
     
